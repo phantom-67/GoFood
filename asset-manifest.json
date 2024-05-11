@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.def6ac4c.css",
-    "main.js": "/static/js/main.c59be748.js",
-    "static/js/592.9ea14901.chunk.js": "/static/js/592.9ea14901.chunk.js",
-    "index.html": "/index.html",
-    "main.def6ac4c.css.map": "/static/css/main.def6ac4c.css.map",
-    "main.c59be748.js.map": "/static/js/main.c59be748.js.map",
-    "592.9ea14901.chunk.js.map": "/static/js/592.9ea14901.chunk.js.map"
+    "main.css": "/GoFood/static/css/main.def6ac4c.css",
+    "main.js": "/GoFood/static/js/main.3d7e5dab.js",
+    "static/js/592.9ea14901.chunk.js": "/GoFood/static/js/592.9ea14901.chunk.js",
+    "index.html": "/GoFood/index.html",
+    "main.def6ac4c.css.map": "/GoFood/static/css/main.def6ac4c.css.map",
+    "main.3d7e5dab.js.map": "/GoFood/static/js/main.3d7e5dab.js.map",
+    "592.9ea14901.chunk.js.map": "/GoFood/static/js/592.9ea14901.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.def6ac4c.css",
-    "static/js/main.c59be748.js"
+    "static/js/main.3d7e5dab.js"
   ]
 }
